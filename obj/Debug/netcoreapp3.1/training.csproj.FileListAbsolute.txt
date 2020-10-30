@@ -1,0 +1,11 @@
+/Users/adariusc/Desktop/repos/training/bin/Debug/netcoreapp3.1/training.deps.json
+/Users/adariusc/Desktop/repos/training/bin/Debug/netcoreapp3.1/training.runtimeconfig.json
+/Users/adariusc/Desktop/repos/training/bin/Debug/netcoreapp3.1/training.runtimeconfig.dev.json
+/Users/adariusc/Desktop/repos/training/bin/Debug/netcoreapp3.1/training.dll
+/Users/adariusc/Desktop/repos/training/bin/Debug/netcoreapp3.1/training.pdb
+/Users/adariusc/Desktop/repos/training/obj/Debug/netcoreapp3.1/training.AssemblyInfoInputs.cache
+/Users/adariusc/Desktop/repos/training/obj/Debug/netcoreapp3.1/training.AssemblyInfo.cs
+/Users/adariusc/Desktop/repos/training/obj/Debug/netcoreapp3.1/training.csproj.CoreCompileInputs.cache
+/Users/adariusc/Desktop/repos/training/obj/Debug/netcoreapp3.1/training.dll
+/Users/adariusc/Desktop/repos/training/obj/Debug/netcoreapp3.1/training.pdb
+/Users/adariusc/Desktop/repos/training/obj/Debug/netcoreapp3.1/training.genruntimeconfig.cache
